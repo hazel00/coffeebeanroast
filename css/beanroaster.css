@@ -53,6 +53,15 @@ footer {
 	text-align: center
 }
 
+#tdcoffeelabel{
+    width = 80%
+}
+
+#tdcoffeecomment{
+    width = 20%;
+    align = "left";
+}
+
 #uploadImage{
     float:left
 }
@@ -99,4 +108,8 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#Comments{
+    align="center"
 }
